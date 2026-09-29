@@ -32,7 +32,6 @@ This project helped me improve my understanding of how SQL can be used not just 
 I’m continuing to build my skills in **SQL, Excel, Power BI, and Python** as I work toward a career in **Data Analytics**.
 
 🔗 **GitHub Repository:**
-[SQL-Exploratory-Data-Analysis-EDA-Project]
+[https://github.com/kasim-01/SQL-Exploratory-Data-Analysis-EDA-Project]
 
 #SQL #DataAnalytics #EDA #ExploratoryDataAnalysis #MicrosoftSQLServer #SSMS #DataAnalyst #SQLProject #GitHub #LearningDataAnalytics
-
